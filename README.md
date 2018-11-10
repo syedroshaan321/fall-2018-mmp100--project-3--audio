@@ -24,7 +24,7 @@ Your description goes here.
 
 ## Submission
 1. Log in to GitHub.
-2. Fork *this* repository, not another student’s, at [https://github.com/code-warrior/fall-2018-mmp100--project-3--audio](https://github.com/code-warrior/fall-2018-mmp100--project-3--audio).
+2. Fork *this* repository, not another student’s, at [file:///Users/syedroshaan.alisarda/Desktop/fall-2018/mmp-100/project-3/index.html).
 3. Clone your fork locally.
 4. Checkout your personal branch, the one with your name.
 5. With your project files and folders uploaded onto the MMP servers, update `README.md` according to the directions above.
