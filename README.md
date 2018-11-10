@@ -13,7 +13,7 @@ For this project, you’ll use Audacity to create a 90-second audio collage that
 5. Edit this `README.md` file by adding a link to your project under the **Link** section and include a description under the **Description** section. Both appear below.
 
 ### Link
-[Link to your project](http://www.add-link-to-your-project-here.com)
+[Link to your project](file:///Users/syedroshaan.alisarda/Desktop/fall-2018/mmp-100/project-3/index.html)
 
 ### Description
 Your description goes here.
