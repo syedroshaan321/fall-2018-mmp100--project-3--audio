@@ -16,7 +16,7 @@ For this project, you’ll use Audacity to create a 90-second audio collage that
 [Link to your project](file:///Users/syedroshaan.alisarda/Desktop/fall-2018/mmp-100/project-3/index.html)
 
 ### Description
-This is an arabic classical song.
+This is an arabic classical song from A famous singer named Hussain Al Issa.
 
 ## Rules
 * **Do not** add or remove any files to this repo.
@@ -24,7 +24,7 @@ This is an arabic classical song.
 
 ## Submission
 1. Log in to GitHub.
-2. Fork *this* repository, not another student’s, at [file:///Users/syedroshaan.alisarda/Desktop/fall-2018/mmp-100/project-3/index.html).
+2. Fork *this* repository, not another student’s, at [ https://github.com/code-warrior/fall-2018-mmp100--project-3--audio.).
 3. Clone your fork locally.
 4. Checkout your personal branch, the one with your name.
 5. With your project files and folders uploaded onto the MMP servers, update `README.md` according to the directions above.
