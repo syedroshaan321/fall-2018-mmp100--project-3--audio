@@ -16,7 +16,7 @@ For this project, you’ll use Audacity to create a 90-second audio collage that
 [Link to your project](file:///Users/syedroshaan.alisarda/Desktop/fall-2018/mmp-100/project-3/index.html)
 
 ### Description
-Your description goes here.
+This is an arabic classical song.
 
 ## Rules
 * **Do not** add or remove any files to this repo.
